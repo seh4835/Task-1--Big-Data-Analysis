@@ -35,3 +35,4 @@ Overall, this project showed me how powerful PySpark is for working with large d
 *OUTPUT*
 
 ![Image](https://github.com/user-attachments/assets/0a55a79a-342c-4dd6-9a99-060e7a9ddd64)
+![Image](https://github.com/user-attachments/assets/0674436b-f585-4829-b543-91f74ddcc22a)
