@@ -12,7 +12,8 @@
 
 *MENTOR*: NEELA SANTOSH
 
-Big Data Analysis Using PySpark — Project Description 
+Big Data Analysis Using PySpark — Project Description
+
 For this project, I explored big data analysis using PySpark, focusing on handling and drawing insights from a large CSV dataset. The goal was to work with a scalable tool that can handle massive datasets efficiently — something traditional Python tools like pandas struggle with as data size grows.
 
 I started by setting up a Spark session using PySpark, which allowed me to work in a distributed environment. This means that instead of processing data on just one machine, Spark can spread the work across multiple cores or even servers — a huge advantage when working with large datasets.
