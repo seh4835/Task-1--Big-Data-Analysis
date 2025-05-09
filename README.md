@@ -32,3 +32,6 @@ Finally, after all the processing, I closed the Spark session to free up resourc
 
 Overall, this project showed me how powerful PySpark is for working with large datasets. It’s fast, scalable, and great for real-world applications where data volume is too much for local tools. The insights I generated — from missing value counts to group-based averages and correlations — are the kind of things businesses look for when making data-driven decisions. PySpark made it possible to explore all of this, even with a large dataset, without running into memory or performance issues.
 
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/0a55a79a-342c-4dd6-9a99-060e7a9ddd64)
